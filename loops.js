@@ -17,10 +17,10 @@ function whileLoop(number){
   return "done";
 }
 
-let i = 15;
+let i = 1;
 
 function incrementVariable() {
-  i = i - 1;
+  i = i + 1;
   return i;
 }
 
