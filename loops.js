@@ -17,7 +17,7 @@ function whileLoop(number){
   return "done";
 }
 
-let i = 0;
+let i = 15;
 
 function incrementVariable() {
   i = i - 1;
